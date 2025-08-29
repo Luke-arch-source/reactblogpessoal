@@ -10,9 +10,6 @@ function Navbar() {
                     <Link to={("/home")}>Blog Pessoal</Link>
 
                     <div className='flex gap-4'>
-
-
-                        <Link to={("/teste")}>teste</Link>
                         Postagens
                         Temas
                         Cadastrar tema

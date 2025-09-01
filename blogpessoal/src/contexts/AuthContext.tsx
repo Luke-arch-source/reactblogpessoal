@@ -42,11 +42,11 @@ export function AuthProvider({ children }: AuthProviderProps) {
     function handleLogout() {
         setUsuario({
             id: 0,
-            nome: '',
-            usuario: '',
-            senha: '',
-            foto: '',
-            token: ''
+            nome: "",
+            usuario: "",
+            senha: "",
+            foto: "",
+            token: ""
         })
     }
 
